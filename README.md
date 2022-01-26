@@ -14,3 +14,5 @@ The game is endless, so the goal is to stay alive as long as possible. With time
 4. **W**: Move up
 5. **S**: Move down
 
+# Inspired by
+Tech with Tim on YouTube
